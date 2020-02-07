@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78b452cf-82d1-4197-bd49-c96a23954fa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1EXp2w33VA7ZSF4CtzCbytIVd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Task1_9">
+    <configuration name="Task1_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pvt.java.Task1_17" />
+      <module name="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pvt.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pvt.java.Task1_18" />
+      <module name="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pvt.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pvt.java.Task1_2" />
+      <module name="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pvt.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pvt.java.Task1_6" />
+      <module name="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pvt.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pvt.java.Task1_9" />
+      <module name="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pvt.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Task1_17" />
+      <item itemvalue="Application.Task1_18" />
+      <item itemvalue="Application.Task1_2" />
+      <item itemvalue="Application.Task1_6" />
+      <item itemvalue="Application.Task1_9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task1_9" />
+        <item itemvalue="Application.Task1_6" />
+        <item itemvalue="Application.Task1_17" />
+        <item itemvalue="Application.Task1_18" />
+        <item itemvalue="Application.Task1_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b452cf-82d1-4197-bd49-c96a23954fa4" name="Default Changelist" comment="" />
+      <created>1580205242093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580205242093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Servers" timestamp="1580215414996">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Servers/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580215414996" />
+    <state x="421" y="81" key="FileChooserDialogImpl" timestamp="1580745593128">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580745593128" />
+    <state x="421" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580399151198" />
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom" timestamp="1580405370327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.bottom/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580392340939" />
+    <state width="1637" height="427" key="GridCell.Tab.0.bottom/0.0.1280.680/2.-1050.1680.1010@2.-1050.1680.1010" timestamp="1580379767921" />
+    <state width="1237" height="178" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580405370327" />
+    <state width="1237" height="178" key="GridCell.Tab.0.center" timestamp="1580405370327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.center/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580392340938" />
+    <state width="1637" height="427" key="GridCell.Tab.0.center/0.0.1280.680/2.-1050.1680.1010@2.-1050.1680.1010" timestamp="1580379767921" />
+    <state width="1237" height="178" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580405370327" />
+    <state width="1237" height="178" key="GridCell.Tab.0.left" timestamp="1580405370327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.left/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580392340938" />
+    <state width="1637" height="427" key="GridCell.Tab.0.left/0.0.1280.680/2.-1050.1680.1010@2.-1050.1680.1010" timestamp="1580379767921" />
+    <state width="1237" height="178" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580405370327" />
+    <state width="1237" height="178" key="GridCell.Tab.0.right" timestamp="1580405370327">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="215" key="GridCell.Tab.0.right/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580392340939" />
+    <state width="1637" height="427" key="GridCell.Tab.0.right/0.0.1280.680/2.-1050.1680.1010@2.-1050.1680.1010" timestamp="1580379767921" />
+    <state width="1237" height="178" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580405370327" />
+    <state x="91" y="0" key="new project wizard" timestamp="1580745594531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1580745594531" />
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1580399156330" />
+  </component>
+</project>
