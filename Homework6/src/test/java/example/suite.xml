@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test">
+        <classes>
+            <class name="example.StringOperationsTest"/>
+            <class name="example.StringOperations2Test"/>
+            <class name="example.StringOperations3Test"/>
+        </classes>
+    </test>
+</suite>
