@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7683941-cdab-4ddb-a88b-02ce2fcab559" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y88rLiXqkY83Awz1keHg4nZhQW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.SpamFolderPageTest.moveFromSpamTest">
+    <configuration name="InboxPageTest.checkboxEmailsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework10.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InboxPageTest" />
+      <option name="METHOD_NAME" value="checkboxEmailsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InboxPageTest.moveToSpamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework10.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InboxPageTest" />
+      <option name="METHOD_NAME" value="moveToSpamTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InboxPageTest.sendLetterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework10.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InboxPageTest" />
+      <option name="METHOD_NAME" value="sendLetterTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InboxPageTest.uncheckAllCheckedEmailsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework10.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="InboxPageTest" />
+      <option name="METHOD_NAME" value="uncheckAllCheckedEmailsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpamFolderPageTest.moveFromSpamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework10.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpamFolderPageTest" />
+      <option name="METHOD_NAME" value="moveFromSpamTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpamFolderPageTest.moveFromSpamTest" />
+        <item itemvalue="JUnit.InboxPageTest.uncheckAllCheckedEmailsTest" />
+        <item itemvalue="JUnit.InboxPageTest.checkboxEmailsTest" />
+        <item itemvalue="JUnit.InboxPageTest.sendLetterTest" />
+        <item itemvalue="JUnit.InboxPageTest.moveToSpamTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7683941-cdab-4ddb-a88b-02ce2fcab559" name="Default Changelist" comment="" />
+      <created>1582313058397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582313058397</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582390700774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1582390700774" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1582326687985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1582326687985" />
+    <state width="1281" height="222" key="GridCell.Tab.0.bottom" timestamp="1582404738624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="222" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582404738624" />
+    <state width="1281" height="222" key="GridCell.Tab.0.center" timestamp="1582404738624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="222" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582404738624" />
+    <state width="1281" height="222" key="GridCell.Tab.0.left" timestamp="1582404738624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="222" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582404738624" />
+    <state width="1281" height="222" key="GridCell.Tab.0.right" timestamp="1582404738624">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="222" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582404738624" />
+    <state x="91" y="36" key="new project wizard" timestamp="1582392097419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="36" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1582392097419" />
+  </component>
+</project>
