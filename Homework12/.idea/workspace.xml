@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b80f6854-98d2-48d9-ad44-7effe69c8dfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJACRO4ZdRhVKyErGfnvpvKJq7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MailRuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junitcucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="junitcucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="junitcucumber" />
+      <option name="MAIN_CLASS_NAME" value="junitcucumber.MailRuTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MailRuTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b80f6854-98d2-48d9-ad44-7effe69c8dfb" name="Default Changelist" comment="" />
+      <created>1582650195503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582650195503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Plugins" timestamp="1583103304328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Plugins/0.0.1280.680@0.0.1280.680" timestamp="1583103304328" />
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser" timestamp="1583096636431">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583096636431" />
+    <state x="206" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583097916526">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="206" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1583097916526" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1582652052511">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582652052511" />
+    <state width="1281" height="29" key="GridCell.Tab.0.bottom" timestamp="1583176124630">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="98" key="GridCell.Tab.0.bottom/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1583164248476" />
+    <state width="1281" height="29" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583176124630" />
+    <state width="1281" height="29" key="GridCell.Tab.0.center" timestamp="1583176124629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="98" key="GridCell.Tab.0.center/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1583164248476" />
+    <state width="1281" height="29" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583176124629" />
+    <state width="1281" height="29" key="GridCell.Tab.0.left" timestamp="1583176124629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="98" key="GridCell.Tab.0.left/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1583164248476" />
+    <state width="1281" height="29" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583176124629" />
+    <state width="1281" height="29" key="GridCell.Tab.0.right" timestamp="1583176124629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="98" key="GridCell.Tab.0.right/0.0.1280.680/2.-1050.1680.1010@0.0.1280.680" timestamp="1583164248476" />
+    <state width="1281" height="29" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583176124629" />
+    <state x="91" y="42" key="new project wizard" timestamp="1582652070291">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="42" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1582652070291" />
+  </component>
+</project>
