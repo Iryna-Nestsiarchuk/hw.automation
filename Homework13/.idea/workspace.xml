@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73312d41-fc6b-4b25-b9d9-106e9e1c72fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YabqcpKXbO1ni6ORzR2ZuzuziZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VKTest.VKTest">
+    <configuration name="VKTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework13" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VKTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VKTest.VKTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework13" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VKTest" />
+      <option name="METHOD_NAME" value="VKTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VKTest.VKTest" />
+        <item itemvalue="JUnit.VKTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73312d41-fc6b-4b25-b9d9-106e9e1c72fc" name="Default Changelist" comment="" />
+      <created>1583183843205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583183843205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583191437234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="200" width="404" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1583191437234" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583183931962">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583183931962" />
+    <state width="1281" height="177" key="GridCell.Tab.0.bottom" timestamp="1583193889504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="177" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583193889504" />
+    <state width="1281" height="177" key="GridCell.Tab.0.center" timestamp="1583193889504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="177" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583193889504" />
+    <state width="1281" height="177" key="GridCell.Tab.0.left" timestamp="1583193889504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="177" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583193889504" />
+    <state width="1281" height="177" key="GridCell.Tab.0.right" timestamp="1583193889504">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1281" height="177" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583193889504" />
+  </component>
+</project>
