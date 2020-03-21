@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Refs>
+    <Emails>
+        <Email id = "1">
+            <Subject>Test</Subject>
+            <Receiver>irina.nesterch@gmail.com</Receiver>
+            <Text>Test test</Text>
+        </Email>
+    </Emails>
+</Refs>

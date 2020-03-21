@@ -1,0 +1,30 @@
+21:56:17,479  INFO main FactoryPatternTest:beforeTest:26 - It is before test
+21:56:23,197 ERROR main FactoryPatternTest:beforeMethod:32 - It is not an error :))
+21:56:24,547 FATAL main FactoryPatternTest:launchGoogleTest:50 - It is an example
+21:56:28,008 ERROR main FactoryPatternTest:beforeMethod:32 - It is not an error :))
+21:56:38,537 ERROR main FactoryPatternTest:beforeMethod:32 - It is not an error :))
+17:25:37,714  INFO main FactoryPatternTest:beforeTest:23 - It is before test
+17:25:44,818 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:25:46,010 FATAL main FactoryPatternTest:launchGoogleTest:47 - It is an example
+17:25:49,315 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:25:57,695 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:34:56,869  INFO main FactoryPatternTest:beforeTest:23 - It is before test
+17:35:03,240 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:35:05,070 FATAL main FactoryPatternTest:launchGoogleTest:46 - It is an example
+17:35:08,485 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:35:16,585 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:38:28,841  INFO main FactoryPatternTest:beforeTest:23 - It is before test
+17:38:34,917 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:38:36,670 FATAL main FactoryPatternTest:launchGoogleTest:46 - It is an example
+17:38:40,229 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:38:47,420 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:54:05,899  INFO main FactoryPatternTest:beforeTest:23 - It is before test
+17:54:16,025 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:54:16,925 FATAL main FactoryPatternTest:launchGoogleTest:46 - It is an example
+17:54:20,689 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:54:28,109 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:54:53,170  INFO main FactoryPatternTest:beforeTest:23 - It is before test
+17:54:59,230 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:55:01,248 FATAL main FactoryPatternTest:launchGoogleTest:46 - It is an example
+17:55:04,764 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
+17:55:12,915 ERROR main FactoryPatternTest:beforeMethod:29 - It is not an error :))
